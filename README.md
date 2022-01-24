@@ -54,7 +54,7 @@ In production, the owner will trigger profit distribution on a daily basis.
 
 ## How to test the StakePool
 1. Git clone the repository to your local machine.
-`git clone https://github.com/AntoniosHadji/ethereum-staking-smart-contract.git`
+`git clone https://github.com/Temple424/ethereum-staking-smart-contract.git`
 2. Change to the project directory.
 2. Run 'npm install' to update the dependencies.  
 3. Start Ganache on the local machine.  
@@ -106,6 +106,6 @@ The overall goal in writing these tests was to test each smart contract function
 
 
 
-[1]: https://github.com/AntoniosHadji/ethereum-staking-smart-contract/blob/master/test/full-workflow.js
-[2]: https://github.com/AntoniosHadji/ethereum-staking-smart-contract/blob/master/test/server-functions.js
+[1]: https://github.com/Temple424/ethereum-staking-smart-contract/blob/master/test/full-workflow.js
+[2]: https://github.com/Temple424/ethereum-staking-smart-contract/blob/master/test/server-functions.js
 [3]: https://www.hadji.co/ethereum-staking-smart-contract/src/
